@@ -35,3 +35,4 @@ Clique no botão "Gerar Número".
 O número aleatório gerado será exibido na tela junto com uma mensagem de congratulação</p>
 <br>
 <br>
+<img src="https://github.com/Douglasl10/Projeto-sorteador/blob/main/img/Captura%20de%20tela%202025-03-04%20132901.png"/>
